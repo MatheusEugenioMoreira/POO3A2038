@@ -6,7 +6,7 @@
 <h1 align="center">Imagens do projeto</h1> 
  
 <div>
-<img align="left" src="img/cadastrar.png" width="150px"</img> 
-<img align="center" src="img/login.png" width="150px"</img> 
-<img align="right" src="img/menu.png" width="150px"</img> 
+<img align="" src="img/cadastrar.png" width="150px"</img> 
+<img align="" src="img/login.png" width="150px"</img> 
+<img align="" src="img/menu.png" width="150px"</img> 
 </div>
