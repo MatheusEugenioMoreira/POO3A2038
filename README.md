@@ -15,11 +15,11 @@
 <img src="img/usuario-localizado.png" height="300px" width="250px"</img> 
  </div>
  <div align="center">
-<img src="img/menu.png"</img> 
+<img src="img/menu.png" width="400px" </img> 
  </div>
  <div align="center">
-<img src="img/musica.png" </img> 
+<img src="img/musica.png" width="400px" </img> 
  </div>
  <div align="center">
-<img src="img/gravadora.png" </img> 
+<img src="img/gravadora.png" width="400px" </img> 
  </div>
