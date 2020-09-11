@@ -5,6 +5,12 @@
 
 <h1 align="center">Imagens do projeto</h1> 
  
+<div align="left">
+    <img src="img/cadastrar.png" width="400px"</img> 
+</div>
 <div align="center">
     <img src="img/login.png" width="400px"</img> 
+</div>
+<div align="right">
+    <img src="img/menu.png" width="400px"</img> 
 </div>
