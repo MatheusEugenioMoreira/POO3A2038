@@ -11,6 +11,15 @@
 <div align="center">
 <img  src="img/login.png" width="250px"</img> 
  </div> 
+  <div align="center">
+<img src="img/usuario-localizado.png" height="300px" width="250px"</img> 
+ </div>
  <div align="center">
 <img src="img/menu.png" height="300px" width="250px"</img> 
+ </div>
+ <div align="center">
+<img src="img/musica.png" height="300px" width="250px"</img> 
+ </div>
+ <div align="center">
+<img src="img/gravadora.png" height="300px" width="250px"</img> 
  </div>
