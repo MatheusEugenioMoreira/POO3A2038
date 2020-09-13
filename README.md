@@ -21,7 +21,7 @@
 
 
 <a href="#">
-  <img align="left" alt="Visual Studio" width="60px" src="https://mpng.subpng.com/20180422/efq/kisspng-microsoft-visual-studio-team-foundation-server-vis-photo-studio-flex-design-5add58dbe7b9d7.8854346615244556439492.jpg" />
+  <img align="left" alt="Visual Studio" width="60px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/02/VSWinIcon_100x.png" />
 </a>
 
 <a href="#">
@@ -29,7 +29,7 @@
 </a>
 
 <a href="#">
-  <img align="left" alt="mysqlWorkbench" width="60px" color="white" src="https://w7.pngwing.com/pngs/22/490/png-transparent-mysql-workbench-computer-icons-database-software-development-business.png" />
+  <img align="left" alt="mysqlWorkbench" width="60px" color="white" src="https://i.pinimg.com/originals/e9/bd/82/e9bd82cf92894a080eb23a15c246c52b.png" />
 </a>
 
 <a href="#">
