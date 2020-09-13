@@ -43,7 +43,7 @@
 
 <br/><br/>
 
-<a href="https://slack.com/intl/en-br/">
+<a href="https://stackoverflow.com/questions/22135222/the-meaning-of-crud">
   <img align="left" alt="CRUD" width="120px" src="https://miro.medium.com/max/768/1*gjA78w2_Q8lSNZAnTMScqA.png" />
 </a>
 
