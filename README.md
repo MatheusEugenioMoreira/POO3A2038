@@ -21,23 +21,23 @@
 
 
 <a href="#">
-  <img align="left" alt="Visual Studio" width="60px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/02/VSWinIcon_100x.png" />
+  <img align="left" alt="Visual Studio" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/02/VSWinIcon_100x.png" />
 </a>
 
 <a href="#">
-  <img align="left" alt="Wampserver" width="22px" src="https://img1.gratispng.com/20180910/tjs/kisspng-wampserver-web-server-computer-servers-xampp-file-wampserver-logo-svg-wikimedia-commons-5b972ac8ec8e70.7459369615366335449689.jpg" />
+  <img align="left" alt="Wampserver" width="30px" src="https://img1.gratispng.com/20180910/tjs/kisspng-wampserver-web-server-computer-servers-xampp-file-wampserver-logo-svg-wikimedia-commons-5b972ac8ec8e70.7459369615366335449689.jpg" />
 </a>
 
 <a href="#">
-  <img align="left" alt="mysqlWorkbench" width="60px" color="white" src="https://i.pinimg.com/originals/e9/bd/82/e9bd82cf92894a080eb23a15c246c52b.png" />
+  <img align="left" alt="mysqlWorkbench" width="30px" color="white" src="https://i.pinimg.com/originals/e9/bd/82/e9bd82cf92894a080eb23a15c246c52b.png" />
 </a>
 
 <a href="#">
-  <img align="left" alt="Github" width="22px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
+  <img align="left" alt="Github" width="30px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
 </a>
 
 <a href="#">
-  <img align="left" alt="Slack" width="60px" src="https://imagens.canaltech.com.br/238707.474051-Slack.jpg" />
+  <img align="left" alt="Slack" width="30px" src="https://image.flaticon.com/icons/png/512/2762/2762451.png" />
 </a>
 
 <br/>
