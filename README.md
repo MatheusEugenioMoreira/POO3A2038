@@ -42,9 +42,8 @@
 </a>
 
 <br/>
-<h3 align="left">CRUD</h3>
 
 <a href="https://slack.com/intl/en-br/">
-  <img align="left" alt="CRUD" width="70px" src="https://miro.medium.com/max/768/1*gjA78w2_Q8lSNZAnTMScqA.png" />
+  <img align="left" alt="CRUD" width="100px" src="https://miro.medium.com/max/768/1*gjA78w2_Q8lSNZAnTMScqA.png" />
 </a>
 
