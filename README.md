@@ -1,4 +1,4 @@
-<a href="https://cotemig.com.br/">
+<a href="https://cotemig.com.br/" target="blank">
   <img align="right" alt="logo cotemig" width= "300px" src="https://www.assespro-mg.org.br/wp-content/uploads/2018/05/Cotemig-Associados.png" />
 </a>
 <h1 align="center">2Tri - Trabalho Prático - Modelo MVC - POO</h1> 
