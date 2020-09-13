@@ -21,7 +21,7 @@
 
 
 <a href="#">
-  <img align="left" alt="Visual Studio" width="40px" src="https://banner2.cleanpng.com/20180422/efq/kisspng-microsoft-visual-studio-team-foundation-server-vis-photo-studio-flex-design-5add58dbe7b9d7.8854346615244556439492.jpg" />
+  <img align="left" alt="Visual Studio" width="60px" src="https://banner2.cleanpng.com/20180422/efq/kisspng-microsoft-visual-studio-team-foundation-server-vis-photo-studio-flex-design-5add58dbe7b9d7.8854346615244556439492.jpg" />
 </a>
 
 <a href="#">
@@ -29,7 +29,7 @@
 </a>
 
 <a href="#">
-  <img align="left" alt="mysqlWorkbench" width="40px" color="white" src="https://w7.pngwing.com/pngs/22/490/png-transparent-mysql-workbench-computer-icons-database-software-development-business.png" />
+  <img align="left" alt="mysqlWorkbench" width="60px" color="white" src="https://w7.pngwing.com/pngs/22/490/png-transparent-mysql-workbench-computer-icons-database-software-development-business.png" />
 </a>
 
 <a href="#">
@@ -37,7 +37,7 @@
 </a>
 
 <a href="#">
-  <img align="left" alt="Slack" width="22px" src="https://imagens.canaltech.com.br/238707.474051-Slack.jpg" />
+  <img align="left" alt="Slack" width="60px" src="https://imagens.canaltech.com.br/238707.474051-Slack.jpg" />
 </a>
 
 <br/>
