@@ -44,6 +44,6 @@
 <br/><br/>
 
 <a href="https://slack.com/intl/en-br/">
-  <img align="left" alt="CRUD" width="100px" src="https://miro.medium.com/max/768/1*gjA78w2_Q8lSNZAnTMScqA.png" />
+  <img align="left" alt="CRUD" width="120px" src="https://miro.medium.com/max/768/1*gjA78w2_Q8lSNZAnTMScqA.png" />
 </a>
 
