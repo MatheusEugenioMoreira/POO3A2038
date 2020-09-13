@@ -21,7 +21,7 @@
 
 
 <a href="#">
-  <img align="left" alt="Visual Studio" width="60px" src="https://banner2.cleanpng.com/20180422/efq/kisspng-microsoft-visual-studio-team-foundation-server-vis-photo-studio-flex-design-5add58dbe7b9d7.8854346615244556439492.jpg" />
+  <img align="left" alt="Visual Studio" width="60px" src="https://mpng.subpng.com/20180422/efq/kisspng-microsoft-visual-studio-team-foundation-server-vis-photo-studio-flex-design-5add58dbe7b9d7.8854346615244556439492.jpg" />
 </a>
 
 <a href="#">
