@@ -2,7 +2,7 @@
   <img align="right" alt="logo cotemig" width= "300px" src="https://www.assespro-mg.org.br/wp-content/uploads/2018/05/Cotemig-Associados.png" />
 </a>
 <h1 align="center">2Tri - Trabalho Prático - Modelo MVC - POO</h1> 
-<p align="center">Projeto desenvolvido para a disciplica de Programação Orientada a Objeto (POO), lecionada pelo <a href="https://github.com/otavianocotemig">Professor Otaviano Silvério</a> em C#, utilizando a arquitetura em camadas e CRUD. <strong>a href="https://github.com/matheusem">Matheus Eugênio Moreira (38)</a> e <a href="https://github.com/guilhermehv"> Guilherme Henrique (20).</a></strong> Esse projeto tem o intuíto de adicionar, editar, buscar e apagar musicas e gravadoras do Banco de Dados (tblGravadora). De forma simples e prática, é necessário criar um login (usuario e senha), mas que no proprio sistema é possivel criar quantos logins for necessário.</p>
+<p align="center">Projeto desenvolvido para a disciplica de Programação Orientada a Objeto (POO), lecionada pelo <a href="https://github.com/otavianocotemig">Professor Otaviano Silvério</a> em C#, utilizando a arquitetura em camadas e CRUD. <strong><a href="https://github.com/matheusem">Matheus Eugênio Moreira (38)</a> e <a href="https://github.com/guilhermehv"> Guilherme Henrique (20).</a></strong> Esse projeto tem o intuíto de adicionar, editar, buscar e apagar musicas e gravadoras do Banco de Dados (tblGravadora). De forma simples e prática, é necessário criar um login (usuario e senha), mas que no proprio sistema é possivel criar quantos logins for necessário.</p>
 <h3>Linguagem, Banco de Dados e Server utilizados neste projeto<h3/>
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
