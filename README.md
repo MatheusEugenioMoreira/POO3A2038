@@ -5,19 +5,19 @@
 ## informações adicionais:
 <h4 align="left">C#, MySQL</h4> 
 <a href="#">
-  <img align="left" alt="C#" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
+  <img align="left" alt="C#" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
 </a>
 
 <a href="#">
-  <img align="left" alt="Wampserver" width="22px" src="https://img1.gratispng.com/20180910/tjs/kisspng-wampserver-web-server-computer-servers-xampp-file-wampserver-logo-svg-wikimedia-commons-5b972ac8ec8e70.7459369615366335449689.jpg" />
+  <img align="left" alt="Wampserver" width="30px" src="https://img1.gratispng.com/20180910/tjs/kisspng-wampserver-web-server-computer-servers-xampp-file-wampserver-logo-svg-wikimedia-commons-5b972ac8ec8e70.7459369615366335449689.jpg" />
 </a>
 
 <a href="#">
-  <img align="left" alt="mysql" width="22px" color="white" src="https://miro.medium.com/max/1200/1*DZyivhX9QpnKxovKyQjZEw.png" />
+  <img align="left" alt="mysql" width="30px" color="white" src="https://miro.medium.com/max/1200/1*DZyivhX9QpnKxovKyQjZEw.png" />
 </a>
 <br/>
 
-<h4 align="left">Visual Studio Enterprise, Wampserver, MySQL Workbench, Github, Slack</h4> 
+<h2>Programas utilizados<h2/>
 
 
 <a href="#">
@@ -41,7 +41,4 @@
 </a>
 
 <br/>
-
-
-
-<h4 align="left">CRUD</h4>
+<h3 align="left">CRUD</h3>
