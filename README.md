@@ -18,9 +18,10 @@
 <br/>
 
 <h4 align="left">Visual Studio Enterprise, Wampserver, MySQL Workbench, Github, Slack</h4> 
-<h4 align="left">CRUD</h4>
+
+
 <a href="#">
-  <img align="left" alt="Visual Studio" width="22px" src="https://banner2.cleanpng.com/20180422/efq/kisspng-microsoft-visual-studio-team-foundation-server-vis-photo-studio-flex-design-5add58dbe7b9d7.8854346615244556439492.jpg" />
+  <img align="left" alt="Visual Studio" width="40px" src="https://banner2.cleanpng.com/20180422/efq/kisspng-microsoft-visual-studio-team-foundation-server-vis-photo-studio-flex-design-5add58dbe7b9d7.8854346615244556439492.jpg" />
 </a>
 
 <a href="#">
@@ -28,7 +29,7 @@
 </a>
 
 <a href="#">
-  <img align="left" alt="mysqlWorkbench" width="22px" color="white" src="https://w7.pngwing.com/pngs/22/490/png-transparent-mysql-workbench-computer-icons-database-software-development-business.png" />
+  <img align="left" alt="mysqlWorkbench" width="40px" color="white" src="https://w7.pngwing.com/pngs/22/490/png-transparent-mysql-workbench-computer-icons-database-software-development-business.png" />
 </a>
 
 <a href="#">
@@ -39,3 +40,8 @@
   <img align="left" alt="Slack" width="22px" src="https://img2.gratispng.com/20180821/bo/kisspng-logo-slack-technologies-product-android-slack-5b7c3c97b65805.5071379415348686317469.jpg" />
 </a>
 
+
+
+
+
+<h4 align="left">CRUD</h4>
