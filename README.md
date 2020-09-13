@@ -15,7 +15,7 @@
 <a href="#">
   <img align="left" alt="mysql" width="22px" color="white" src="https://miro.medium.com/max/1200/1*DZyivhX9QpnKxovKyQjZEw.png" />
 </a>
-
+<br/>
 
 <h4 align="left">Visual Studio Enterprise, Wampserver, MySQL Workbench, Github, Slack</h4> 
 <h4 align="left">CRUD</h4>
