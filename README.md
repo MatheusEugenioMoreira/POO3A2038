@@ -41,7 +41,7 @@
   <img align="left" alt="Slack" width="30px" src="https://image.flaticon.com/icons/png/512/2762/2762451.png" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://slack.com/intl/en-br/">
   <img align="left" alt="CRUD" width="100px" src="https://miro.medium.com/max/768/1*gjA78w2_Q8lSNZAnTMScqA.png" />
