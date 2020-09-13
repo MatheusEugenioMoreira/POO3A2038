@@ -2,8 +2,10 @@
 <h1 align="center">2Tri - Trabalho Prático - Modelo MVC - POO</h1> 
 <p align="center">Projeto desenvolvido para a disciplica de Programação Orientada e Objeto (POO) em C#, utilizando a arquitetura em camadas e CRUD. Matheus Eugênio Moreira (38) e Guilherme Henrique (20)</p>
 <p align="center">Esse projeto tem o intuíto de adicionar, editar, buscar e apagar musicas e gravadoras do Banco de Dados (tblGravadora). De forma simples e prática, é necessário criar um login (usuario e senha), mas que no proprio sistema é possivel criar quantos logins for necessário 😉</p>
-## informações adicionais:
-<h4 align="left">C#, MySQL</h4> 
+<>/h2 informações adicionais: <h2/>
+
+<h2>Linguagem, Banco de Dados e Server utilizados neste projeto<h2/>
+
 <a href="#">
   <img align="left" alt="C#" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
 </a>
