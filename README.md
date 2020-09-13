@@ -37,10 +37,10 @@
 </a>
 
 <a href="#">
-  <img align="left" alt="Slack" width="22px" src="https://img2.gratispng.com/20180821/bo/kisspng-logo-slack-technologies-product-android-slack-5b7c3c97b65805.5071379415348686317469.jpg" />
+  <img align="left" alt="Slack" width="22px" src="https://imagens.canaltech.com.br/238707.474051-Slack.jpg" />
 </a>
 
-
+<br/>
 
 
 
