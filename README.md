@@ -3,3 +3,4 @@
 <h4 align="left">C#, MySql</h4> 
 <h4 align="left">CRUD</h4> 
 
+<img src="https://www.assespro-mg.org.br/wp-content/uploads/2018/05/Cotemig-Associados.png">
